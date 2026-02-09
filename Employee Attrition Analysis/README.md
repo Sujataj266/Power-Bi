@@ -1,5 +1,8 @@
 # Employee-Attrition-Analysis (Interactive Dashboard creation using Power Bi)
 
+## Overview
+Understand and predict employee turnover by analyzing key factors such as age, salary, department, overtime, and job satisfaction, and present insights through an HR dashboard with KPIs.
+
 ## Dataset Used
 - <a href="https://github.com/Sujataj266/Power-Bi/blob/main/Employee%20Attrition%20Analysis/HR_Employee_Attrition_Dataset.csv">Employee-Attrition-Dataset</a>
 
@@ -13,6 +16,9 @@
 
 ## Interactive Dashboard
 - <a href="https://github.com/Sujataj266/Power-Bi/blob/main/Employee%20Attrition%20Analysis/Employee%20Attrition%20Dashboard.pbix">Employee-Attrition-Dashboard</a>
+
+## Dashboard
+<img width="1442" height="813" alt="Screenshot 2026-02-09 235743" src="https://github.com/user-attachments/assets/940908ea-6600-4d34-af2f-a291451e4f01" />
 
 ## Conclusion 
 
