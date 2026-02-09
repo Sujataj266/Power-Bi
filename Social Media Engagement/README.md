@@ -14,7 +14,7 @@
 4. Recommend best posting times and content strategies.
 
 ## Interactive Dashboard
-
+- <a href="https://github.com/Sujataj266/Power-Bi/blob/main/Social%20Media%20Engagement/Social%20media%20Dashboard.pbix">Social-Media-Dashboard</a>
 
 ## Dashboard
 <img width="1304" height="728" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/0a9c492e-ae9a-4b30-ba40-519c511e8e1f" />
