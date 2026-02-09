@@ -4,7 +4,7 @@
 - <a href="https://github.com/Sujataj266/Power-Bi/blob/main/Employee%20Attrition%20Analysis/HR_Employee_Attrition_Dataset.csv">Employee-Attrition-Dataset</a>
 
 ## KPIs
--Goal: Understand and predict employee turnover.
+- Goal: Understand and predict employee turnover.
 - Guidelines:
 1. Use HR analytics datasets.
 2. ldentify factors influencing resignation (age, salary, department).
@@ -12,7 +12,7 @@
 4. Build a dashboard for HR with KPIs.
 
 ## Interactive Dashboard
-
+- <a href="https://github.com/Sujataj266/Power-Bi/blob/main/Employee%20Attrition%20Analysis/Employee%20Attrition%20Dashboard.pbix">Employee-Attrition-Dashboard</a>
 
 ## Conclusion 
 
