@@ -4,7 +4,7 @@
 Analyze SuperStore sales performance by tracking sales, profit, orders, shipping modes, customer segments, and regional trends. The project provides actionable business insights through an interactive Power BI dashboard with KPI metrics and visual reports.
 
 ## Dataset Used
-- <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">SuperStore-Sales-Dataset</a>
+- <a href="https://github.com/Sujataj266/Power-Bi/blob/main/SuperStore%20Sales%20Data/SuperStore_Sales_Dataset.csv">SuperStore-Sales-Dataset</a>
 
 ## KPIs
 - Goal: Analyze and improve business sales performance.
@@ -15,10 +15,10 @@ Analyze SuperStore sales performance by tracking sales, profit, orders, shipping
 4. Build an interactive dashboard with business KPIs.
 
 ## Interactive Dashboard
-- <a href="https://app.powerbi.com/">SuperStore-Sales-Dashboard</a>
+- <a href="https://github.com/Sujataj266/Power-Bi/blob/main/SuperStore%20Sales%20Data/SuperStore%20Sales%20Project.pbix">SuperStore-Sales-Dashboard</a>
 
 ## Dashboard
-<img width="1442" height="813" alt="SuperStore Sales Dashboard" src="https://github.com/user-attachments/assets/sample-superstore-dashboard.png" />
+
 
 ## Conclusion
 
